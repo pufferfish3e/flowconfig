@@ -13,8 +13,8 @@ Clone this repository **or** copy the theme `.xaml` file directly.
 ## 2. Open Flow Launcher Settings
 
 1. Launch **Flow Launcher**
-2. Go to **Settings → Appearance → Themes**
-3. Click **Create New Theme**
+2. Go to **Settings → Appearance → Theme Folder**
+3. Create a new `.xaml` folder.
 
 ## 3. Replace the New Theme File
 
