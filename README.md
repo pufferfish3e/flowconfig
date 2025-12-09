@@ -25,5 +25,3 @@ Clone this repository **or** copy the theme `.xaml` file directly.
 ## 4. Apply the Theme
 
 Return to Flow Launcher and select the theme from the **Themes** list.
-
----
